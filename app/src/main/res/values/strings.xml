@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Converting App</string>
+    <string name="buttonCovert">Covert</string>
 </resources>
